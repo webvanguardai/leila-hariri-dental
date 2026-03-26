@@ -146,7 +146,7 @@ export default function ContactBooking() {
                 <p className="text-center text-xs text-gray-400">
                   Or reach us directly on{" "}
                   <a
-                    href="https://wa.me/97142000000"
+                    href="https://wa.me/971585324519"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-[#C9A84C] hover:underline"

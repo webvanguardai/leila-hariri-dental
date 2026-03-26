@@ -142,7 +142,7 @@ const jsonLd = {
       },
       sameAs: [
         "https://www.instagram.com/drleila.dental",
-        "https://wa.me/97142000000",
+        "https://wa.me/971585324519",
       ],
     },
     {

@@ -15,7 +15,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-3 mt-6">
               <a
-                href="https://wa.me/97142000000"
+                href="https://wa.me/971585324519"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-[#25D366] text-white text-xs px-4 py-2.5 flex items-center gap-2 hover:bg-[#1da854] transition-colors"
